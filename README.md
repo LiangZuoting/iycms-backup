@@ -1,7 +1,7 @@
 # iycms-backup
 爱影CMS资源备份，防止官方跑路
 
-官方安装教程搬运： [https://ermao.live/%E7%88%B1%E5%BD%B1CMS%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.html]()
+官方安装教程搬运： https://ermao.live/%E7%88%B1%E5%BD%B1CMS%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.html
 
 ```
 IYCMS-BACKUP
